@@ -7,7 +7,7 @@ This repo has my solutions for [Project Euler](https://projecteuler.net/) in Go.
 To view the solutions you must perform the following steps:
 - run `./setup.sh` to setup the git filters
 - create `answerkey.toml` (see Answer Key Format below)
-- re-checkout the solutions (run `rm p*.go` and then `git checkout .`)
+- re-checkout the Go files (run `rm *.go` and then `git checkout .`)
 
 ## Answer Key Format
 
