@@ -45,6 +45,7 @@ func updateKey(key, val string) {
 
 func main() {
 	n := flag.Int("n", 0, "Problem number to solve.")
+	g := flag.Int("gen", 0, "Generate new problem file.")
 	enc := flag.Bool("clean", false, "Operate in 'clean' mode (should only be used by git)")
 	dec := flag.Bool("smudge", false, "Operate in 'smudge' mode (should only be used by git)")
 
@@ -55,6 +56,10 @@ func main() {
 		return
 	} else if *dec {
 		smudge()
+		return
+	}
+	if *g > 0 {
+		gen(*g)
 		return
 	}
 
