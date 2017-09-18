@@ -1,0 +1,50 @@
+package main
+
+// encrypt = ignore
+
+/*
+
+This file is encrypted.
+The key is the answer to the indicated problem.
+
+
+-----BEGIN ENCRYPTED CODE-----
+Nonce: U2etPvYy+tQVY/dd
+Problem Number: 3
+Salt: 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
+ViDixuRFQrvtrlRjgApxCEM=
+-----END ENCRYPTED CODE-----
+*/
