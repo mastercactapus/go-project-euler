@@ -139,7 +139,13 @@ func smudge() {
 	nonce, err := base64.StdEncoding.DecodeString(b.Headers["Nonce"])
 	errCheck(err, "decode nonce")
 
-	encKey := getKey(b.Headers["Problem Number"])
+	num := b.Headers["Problem Number"]
+	encKey := getKey(num)
+	if encKey == "" {
+		fmt.Fprintf(os.Stderr, "no solution in answer key for #%s, skipping decryption\n", num)
+		os.Stdout.Write(data)
+		return
+	}
 
 	key, err := scrypt.Key([]byte(encKey), salt, N, r, p, 32)
 	errCheck(err, "calculate encryption key")
