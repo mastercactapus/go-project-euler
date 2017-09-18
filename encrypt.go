@@ -23,6 +23,13 @@ import (
 
 const pemType = "ENCRYPTED CODE"
 
+// scrypt params
+const (
+	N = 32768
+	r = 16
+	p = 2
+)
+
 func getKey(n string) string {
 	var a answerKey
 	_, err := toml.DecodeFile("answerkey.toml", &a)
@@ -81,7 +88,7 @@ func clean() {
 	_, err = rand.Read(nonce)
 	errCheck(err, "get random data")
 
-	key, err := scrypt.Key([]byte(encKey), salt, 16384, 8, 1, 32)
+	key, err := scrypt.Key([]byte(encKey), salt, N, r, p, 32)
 	errCheck(err, "calculate encryption key")
 
 	c, err := aes.NewCipher(key)
@@ -134,7 +141,7 @@ func smudge() {
 
 	encKey := getKey(b.Headers["Problem Number"])
 
-	key, err := scrypt.Key([]byte(encKey), salt, 16384, 8, 1, 32)
+	key, err := scrypt.Key([]byte(encKey), salt, N, r, p, 32)
 	errCheck(err, "calculate encryption key")
 
 	c, err := aes.NewCipher(key)
