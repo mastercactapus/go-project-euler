@@ -62,6 +62,9 @@ func clean() {
 			continue
 		}
 	}
+	if encKeyName == "" {
+		errCheck(errors.New("missing 'encrypt = #' comment -- aborting"), "scan answer key name")
+	}
 	if encKeyName == "ignore" {
 		os.Stdout.Write(data)
 		return
