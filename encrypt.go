@@ -19,7 +19,7 @@ import (
 	"golang.org/x/crypto/scrypt"
 )
 
-// encrypt = none
+// encrypt = ignore
 
 const pemType = "ENCRYPTED CODE"
 
@@ -34,7 +34,7 @@ func getKey(n string) string {
 	return a.Answers[n]
 }
 
-var encRx = regexp.MustCompile(`^encrypt\s*=\s*(\d+|none)$`)
+var encRx = regexp.MustCompile(`^encrypt\s*=\s*(\d+|ignore)$`)
 
 func errCheck(err error, msg string) {
 	if err == nil {
@@ -62,7 +62,7 @@ func clean() {
 			continue
 		}
 	}
-	if encKeyName == "none" {
+	if encKeyName == "ignore" {
 		os.Stdout.Write(data)
 		return
 	}
@@ -97,9 +97,10 @@ func clean() {
 
 	fmt.Println(`package main
 
-// encrypt = none
+// encrypt = ignore
 
 /*
+
 This file is encrypted.
 The key is the answer to the indicated problem.
 
@@ -110,7 +111,7 @@ The key is the answer to the indicated problem.
 		fmt.Fprintf(os.Stderr, "ERROR: encode output: %v\n", err)
 		os.Exit(1)
 	}
-	fmt.Println("\n*/")
+	fmt.Println("*/")
 }
 
 func smudge() {

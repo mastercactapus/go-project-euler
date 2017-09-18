@@ -1,6 +1,6 @@
 package main
 
-// encrypt = none
+// encrypt = ignore
 
 import (
 	"flag"

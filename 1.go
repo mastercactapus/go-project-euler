@@ -1,27 +1,27 @@
 package main
 
-// encrypt = none
+// encrypt = ignore
 
 /*
+
 This file is encrypted.
 The key is the answer to the indicated problem.
 
 
 -----BEGIN ENCRYPTED CODE-----
-Nonce: DSYe1BoYa7Myelrd
+Nonce: n1g0HaApcB5edchT
 Problem Number: 1
-Salt: pyqEzCVeWIKBfqKHZCl+p1DuOm4biYoa0XvrzR8+GwE=
+Salt: McZJaptSjvYWLuomwTDKXu6BbeXQg4d1nAjQ1wdmXvE=
 
-kMfjZOFITUFuQwMBGdaqJmlaYXxnLCLDRfvLU7IzyAOotXpSssnmcvs3bl0GVogh
-Up8ohgkGqDiwhNG2NynMkN5WL1y/4JawSRvn/AlbgLlEKH7ZU/YOaE2DKT+G9z+k
-eo5t11jKekXBlm7YIA/mGrLhGgaPJWS32nq6lcz8GRjxyN/20UBlFQ9qVwIZvkO7
-Es3MWcS2Ht9IIWAxKbXm/XqMQEfXfmEViCHBxGYSIBa3SWceUsrp/ZT/w2i08uGc
-NSpp9pTGWUJfqmfu9kQWRgoedV9i/+M20wNJXDFN7juKQ6uN1OErrBNPJ3VgY+mR
-wJRNsFycEw11nljGL9cVHPJ/il3WvxdF/dLfRTINDXoQMcLVI152vuNrfb0dBH3v
-FhlwqydoiHZGt7rzMMMb1iV8jCbPBtEbtajTXI9FpE9cy1j8VB1ri2FnIaEyPFAI
-SoGU4Otz0MGQOhEV2I9m/9ANA4zRMe9VUWuYgPsex16BORfn4bvdBEsPCBlX0Kif
-mrazK2QEoNF4kFz0Bkb3xYHmZLbCHER39+jIR4h3Yf/bub59wlMCJCd2HExs/EL5
-7ofD
+3D8ass3vvVurXZbyZ/KAkQCwc3ZuCjx8sO6aBVHgnwgtJSCTMrYJ6SM+nfeC9C7o
+aJUE7zYXoJ94efLxYmjsmMQqHwXeh+MsiNU7ui+dPTaGCi3GRsxtdPiD4X1YGA8d
+h1vG4Q3QKjLsDNmSOPKgDL2xVk/2xdeo5YWXD6XIzpUC87Sy2DYv1J/rrUtWBiuc
+22eogtVep2KQdlY5241UDrHziAdOrU0UvwrOn88EFCi7qxxUQXZH5+WQ01AX/Z7l
+pesPEjt0/dhxXtSaZoCw8+MN1qXbGMMSiqwflYOVmr1ZaH0jk5D0FkGiC352CpWa
+yIVUpyIstrFXAPs6jTOPgzSj30uIMVfX0Vtzlcc2Ika/lDC7deQDMtmL3EIPrNRi
+avdURolRDO8IgQWhKKaMerdZoyC5pklhwEVrK8HKVLY8GJlHIWfiEZIQX+/GM8Tq
+nHhIOuya1G5cH1FiffdeHn41zvwYxKWZL4p/wUdn714XfVr0GXq3P40m1jEirOtO
+mAGHjzNe19tXabu3G1Wn4BbdsGRT2tAzwSqnC+js2s+R2X0WMp6E4KOVOhgYgUht
+QAFJiA==
 -----END ENCRYPTED CODE-----
-
 */
