@@ -1,0 +1,46 @@
+package main
+
+// encrypt = ignore
+
+/*
+
+This file is encrypted.
+The key is the answer to the indicated problem.
+
+
+-----BEGIN ENCRYPTED CODE-----
+Nonce: w4DItkW/rjiIa42T
+Problem Number: 17
+Salt: fvJVGEAOzdXLWMsvoUAzfarax/fEVLPCBXaeRsyY9C4=
+
+4QY/zAsUKb5jsMETfV8IvkYFwEkHHo1sy8wFMUzTCRCk5saF1Aps51+hYn/LWal2
+YryIK+nyxSKKN/nx7vhobk2DjaMSKcQDg8IpBsVF4yHexLsugG8OYFLYFXNzlOAq
+Qk+jcXBL64wH1w8IUKsoz1Qeb0BbYEMBW4tSkVddhSQfNSmaL57Gj2S5pkUsXntU
+gwQT4huNc/yL/E3zhMkP0NEFqqadd4iHgvfQjamo4I5HUosm3oCZ+gB1smYikhSs
+mST1WILyHgKldacbFvdoHlStB0fzJ2/jIQ4zvtqrgQ0VfmSXltx+JYJIHtp2t12e
+9NwVY7CiEct2reHis3s2HBmbi56oUKIDXL5F9xQNX4o8hQyW8r3ORvF372MjIZEh
+v4CmSh3PJoY/IaUsiLQqcKuzEmXTGhozHGlwmJb56kytm5vhKcxEwOoaZL5NtE6e
+lwcHoZMqxALPhAV9WsuplNLjvvlO+ZmAPV+hvQzttNrj/lmkXscC1dYwGFCckYT/
+LgPCKRwoQAMJFwvGL35Qv8ClOdjivDX9nTu5WM+g1HH1QXJ21vx2ykQU2f+ff8xg
+qLmOtLHJukgpF8sOynWFSwin54FduZ9ARdiLqI+igsMtkhwQdnmvufSpUQKWc4AH
+C4dVmMF7cxi+bpHfS9KFY7N+PQW8pDkbIimIZURYSyGwvygSI37fO/PT2YEyRG+u
+FUw2uXyh6HiQ16H4HZ49rC4KiHXNP6M7ql6AwcFO+4T5vZGnu49XAP9K6iPCdRbD
+xd8xOjsjU49Mpa2tgclX70NW3IBtmROzXJ8tokdgtUfOFFHomZjuqDUrhL/kmkAw
+w5at/CLMafdKROFhMVSghaNGI8CG2bxUfq7zCHk8t1dZLTkCDIF+s/byVhnd7Bl/
+GBxtvqTaMwnkB5bqeTDZ8tY5Ic1t0y1DtuKqe3y72JuASr3I+muuN25yDgRjpdtB
+xhYh71XRgY/lWODRCdvB90Zysv2d1kV9wKH1WMx0qCcAJPQJ9VMx0l3BFYY67NlE
+dZM+Ce+/Wy722c0/LjRywy9V4AMYWhJP2aXIm76E7LzbL211Ga8dbMKUcri3AYTi
+hXEtAaGULEgH6XBsPtyGahg/P50dOOL5U97B7IRNA3g0Ogrm2hdxxIfplHzVdWX3
+9vvETMeRQCrcuLfYoLRtmojxz142Qz9+s+UE7TxycjYDFld++1+QEaK1mH+NuuT+
++3U4VBUL7EuKh+W5ZQTvJyiTyLtTSqq6ONrtfvDf/s2Yse1H+qptV+ti136PPc8q
+l2R3LzLKswkhzhYGrIALq2KfFF/p/2hfI2wKA7dFSvvRP+JWxUYWyR/DGoGawwfw
+GPRrBNR4btVx7LsBQuu9+xwxUUXfeA/SGrHACYuU4A468R69Ojj95s4sPiXow/Gk
+BfXymTZoZMcciNKFRJq3JdmJHplzc5fx79f/BfflijJy7TfE2MGtxEF6TI2K766k
+7q7fnP73yHz405zNfyyZ1/T0o4Gqi23gyAp90KVeurPqi1y/39pchIMqq5BKkatf
+Uql5G88Cu6t92V2b+rPcJH4AHYUqZd2/2R13mne1fBlrxP3LQYBrlvmIZhfbOI1l
+tKqKJq4jMpMAVvGuyAmnJAO8zCRHwUsstkiyjgHRsTjZ5HCsx+etRAaHkhVHkiiL
+tiwb8ewV6vYqXaTx0Hvzo5r5L+K9uQ1TIGMEEwkJi6WQKPiC2pIW+larKHK8ClW6
+e+jvfheNDGZ0VarWP2mFvXQt+3LayBwFP04EhEQgZYCCa/kQAI9EHsAm49N4xG7J
+VeqvPN1law+IQVymI/vxAm02UQ==
+-----END ENCRYPTED CODE-----
+*/

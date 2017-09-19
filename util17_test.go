@@ -1,0 +1,32 @@
+package main
+
+// encrypt = ignore
+
+/*
+
+This file is encrypted.
+The key is the answer to the indicated problem.
+
+
+-----BEGIN ENCRYPTED CODE-----
+Nonce: Wnqc+qXDwroFFylc
+Problem Number: 17
+Salt: UYpqZ033FcSCtZwu0HrPNbJf7ybhgWpyi//mm1jkMy4=
+
+zklf8NMguw1Q4GSLu8jlNnerZC/jvxG7CE0OxyX2r193W4W5413A02QHf+LFHML2
+lY+qdH7hddRVXUL/D99wZWITyFbXt++t8t7gUHI9cPpPOBo2OErlGmUi077jRROd
+pLFH6WKUYivxCE1F4bT4ekrnW7vbRUTtCY8830XUD7BpxxHwVDUxIDu+ClAdsnvM
+MlPt3Wz6NFC0nWRzhUGyLGaFk1y42NmO81PHA4pjrW36XNNU2sGhMHs92tWbrOKw
+EBwQ1ptXzPrr+AHOdlRswgRijrOQOR5RkA+o5MLvuugcp4nQlL39MVFnl2/4E6vU
+8+b8Joq0+3axb4t0SYu9jVa2oanFYU4ecvMfifkbqMTfaUTEXhmIOM5qOxT4LuFe
+Iiy0SpJPoNpM6E1mt6VCNDBZ9FP+H0VVOvR6/LaitEnNuDZNtMvL/N0Cvvx2XjCC
+hsDUnBcZuCfAS78tPZSufAIHZeNHaOwRJlSY1My3RuDm9JAQsY3huA5mzsbVDyku
+awO5HgGtMqv6QHQMOhSlNorhfRCZ2KgGJ4g7nHi2FzVKBpQD/pLbKrVLoQC5PebV
+YW9bJGjdftQMFtMYZdKaEGdNeKAJpHL6umsEHfnt2pkAjEjBskuSXYSgJsyWy/Fq
+tG9LTghsZXb6YDXmKXyE3s5LkUmyjn4B267OC2WEDScwhbCp7opcOi/ofh72bdCv
+VbLI4TaXmMQ8Dd9rpcljeBcYkkkYZLgb4OHb/OplPELauynHlDZtB4tfXzQ2nA0z
+JX/7VbfQfBv3R2VMUVEMSVE42jDF3GkKOg/+KFWnseYZi3GII/q5LndfdUq9WNdp
+5XCgDQQJdQSPLo6I+VpoJL3DmrUiZwTXETNuXd6sombyQbllFIK07EZHYVgnythc
+k61vfxNr80bJMcARqw==
+-----END ENCRYPTED CODE-----
+*/
